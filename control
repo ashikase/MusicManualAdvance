@@ -1,0 +1,14 @@
+Package: jp.ashikase.musicmanualadvance
+Name: MusicManualAdvance
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Prevent playlists from auto-advancing.
+    When playing a playlist in the Music
+    (iPod) app, the app normally auto-
+    matically advances to the next track
+    when the current track finishes. This
+    tweak prevents this from occurring.
+Maintainer: Lance Fetters
+Author: Lance Fetters
+Section: Tweaks
